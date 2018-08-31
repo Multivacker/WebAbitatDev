@@ -140,7 +140,7 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-                                <h2 class="carousel-bigtitle">&lt;/WEB</h2>
+                                <h2 class="carousel-title">&lt;/WEB</h2>
                                 <p>diseño web a medida y responsivo, elaboramos una plataforma atractiva y personalizada <br/> que transmita el espíritu de tu negocio.</p>
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Explore</a>
