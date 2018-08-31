@@ -115,7 +115,7 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-                                <h1 class="carousel-bigtitle">&lt;/NOS</h1>
+                                <h1 class="carousel-title">&lt;/NOS</h1>
                                 <h3 style="color:white; font-family:Bitwise; margin-left:108px; color:#a1ff00; margin-top:-30px; font-size:1.9em">OCUPAMOS NOSOTROS</h3>
                                 <p>TUS IDEAS DE NEGOCIO DESARROLLADAS CON LAS HERRAMIENTAS MÁS MODERNAS  <br/> Y POTENTES DEL MERCADO </p>
                             </div>
@@ -128,7 +128,7 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-                                <h2 class="carousel-bigtitle">&lt;/SOFT</h2>
+                                <h2 class="carousel-title">&lt;/SOFT</h2>
                                 <p>soluciones en software. creamos aplicaciones sencillas que puedan ahorrarte molestias, <br/> tiempo y gastos innecesarios. </p>
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Explore</a>
