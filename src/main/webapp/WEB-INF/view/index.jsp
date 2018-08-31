@@ -26,6 +26,28 @@
 
         <!-- Favicon -->
         <link rel="shortcut icon" type="images/icon" href="resources/img/favicon.png">
+        
+        <!-- TYPO -->
+        <style>
+            @font-face {
+  font-family: 'bitwise';
+  src: url('resources/fonts/bitwise.eot'); /* IE9 Compat Modes */
+  src: url('resources/fonts/bitwise.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       /*url('resources/fonts/bitwise.woff2') format('woff2'),  Super Modern Browsers */
+       url('resources/fonts/bitwise.woff') format('woff'), /* Pretty Modern Browsers */
+       url('resources/fonts/bitwise.ttf')  format('truetype') /* Safari, Android, iOS */
+       /*url('resources/fonts/bitwise.svg#svgFontName') format('svg');  Legacy iOS */
+}
+
+.carousel-bigtitle{
+    font-family: 'bitwise';
+    font-size: 80px;
+    font-weight: 700;
+    color: #a1ff00;
+    line-height: 1.1;
+    text-transform: uppercase;
+}
+        </style>
     </head>
     <!-- ends HEAD -->
 
@@ -93,7 +115,7 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-                                <h1 class="carousel-title">&lt;/NOS</h1>
+                                <h1 class="carousel-bigtitle">&lt;/NOS</h1>
                                 <h3 style="color:white; font-family:Bitwise; margin-left:108px; color:#a1ff00; margin-top:-30px; font-size:1.9em">OCUPAMOS NOSOTROS</h3>
                                 <p>TUS IDEAS DE NEGOCIO DESARROLLADAS CON LAS HERRAMIENTAS MÁS MODERNAS  <br/> Y POTENTES DEL MERCADO </p>
                             </div>
@@ -106,7 +128,7 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-                                <h2 class="carousel-title">&lt;/SOFT</h2>
+                                <h2 class="carousel-bigtitle">&lt;/SOFT</h2>
                                 <p>soluciones en software. creamos aplicaciones sencillas que puedan ahorrarte molestias, <br/> tiempo y gastos innecesarios. </p>
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Explore</a>
@@ -118,7 +140,7 @@
                     <div class="container">
                         <div class="carousel-centered">
                             <div class="margin-b-40">
-                                <h2 class="carousel-title">&lt;/WEB</h2>
+                                <h2 class="carousel-bigtitle">&lt;/WEB</h2>
                                 <p>diseño web a medida y responsivo, elaboramos una plataforma atractiva y personalizada <br/> que transmita el espíritu de tu negocio.</p>
                             </div>
                             <a href="#" class="btn-theme btn-theme-sm btn-white-brd text-uppercase">Explore</a>
