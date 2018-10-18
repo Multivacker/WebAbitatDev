@@ -283,7 +283,7 @@
                     <h4><a href="#">The Hangman Game</a> <span class="text-uppercase margin-l-20">Videojuego</span></h4>
                     <p>CFP N°11 Fecha de salida: V1.0. December 2017? Ubicación: Comuna 9, CABA, Buenos Aires, Argentina.//
                     Game created in conjunction with the CFP team n ° 11, developed in Java, MVC, multimedia in After Effect and images in Photoshop.</p>
-                    <a class="link" href="#">See More</a>
+                    <a class="link" href="https://github.com/Multivacker/TheHangmanGame">See More</a>
                 </div>
                 <!-- End Latest Products -->
 
